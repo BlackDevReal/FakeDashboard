@@ -1,4 +1,4 @@
-### Cahrds
+### Chards
 
 - https://nivo.rocks/
 - https://apexcharts.com/react-chart-demos/
